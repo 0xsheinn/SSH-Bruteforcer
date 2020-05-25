@@ -1,4 +1,3 @@
-#Run with Python3 <br>
-#Change your wordlist insert of passowrd.txt
+Usage : python3 brute_ssh.py -H [target host] -u [username] -w [wordlist for bruteforce]
 
-<img src='ssh_brute.png'/>
+<img src='brute_ssh.png'/>
